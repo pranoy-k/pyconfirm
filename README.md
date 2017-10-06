@@ -45,5 +45,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Big shout out to Susana Zoghbi, Andres Plata-Stapper, and Marcelo De Cicco for the help on this project throughout our FDL journey.
-* Also a big thanks to the NASA FDL team for making thus possible
+* Also a big thanks to the NASA FDL team for making this possible
 * Peter Jenniskens and Pete Gural also deserve significant mention for mentoring us on this difficult problem
